@@ -130,6 +130,7 @@ textarea::placeholder {
 }
 
 @media (max-width: 450px) {
+    .contact-us-map {width: 350px;}
     input[type=text], input[type=email] {width: 350px;}
 
     textarea {width: 350px;}
