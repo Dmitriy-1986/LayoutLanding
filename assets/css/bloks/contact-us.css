@@ -128,4 +128,9 @@ textarea::placeholder {
 
     textarea {width: 425px;}
 }
-  
+
+@media (max-width: 450px) {
+    input[type=text], input[type=email] {width: 400px;}
+
+    textarea {width: 400px;}
+}
